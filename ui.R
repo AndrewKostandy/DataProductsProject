@@ -8,6 +8,7 @@ shinyUI(navbarPage("Car Master 2016",
                                     
                         h3('The Code for this app can be found on github through this link: https://github.com/AndrewKostandy/DataProductsProject'),
                         
+                        
                         h3('First Tab Panel'),
                                     
                         h5('The first tab panel shows the documentation and how to use the app. You are here :)'),
